@@ -1,1 +1,1 @@
-This repository comprises Google Colab notebooks containing solutions to each of the top 150 LeetCode questions. These questions are widely recognized for their relevance to technical interviews and cover various fundamental and advanced topics in computer science and algorithms.
+This repository comprises Google Colab notebooks containing solutions to each of the top 150 LeetCode questions. These questions are widely recognized for their relevance to technical interviews and cover various fundamental and advanced topics in data structures and algorithms.
